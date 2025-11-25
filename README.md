@@ -23,7 +23,7 @@ sudo yum update -y
 ```
 ## 一键脚本
 ```bash
-sudo apt install git -y && git clone https://github.com/slobys/npm.git && cd npm && chmod +x npm.sh && ./npm.sh
+sudo apt install git -y && git clone https://github.com/justinzhou30/npm.git && cd npm && chmod +x npm.sh && ./npm.sh
 ```
 
   
